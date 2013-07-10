@@ -1,0 +1,7 @@
+Script started on Wed Jul 10 13:46:09 2013
+[?1034hbash-3.2$ sev[Krver
+bash: server: command not found
+bash-3.2$ servercurl -L https://get.rvm.io | bash -s stable --ruby[C[C[C[C[C[C[C[C[C[Cserver[K[K[K[K[K[K[Kexit
+exit
+
+Script done on Wed Jul 10 13:46:25 2013
